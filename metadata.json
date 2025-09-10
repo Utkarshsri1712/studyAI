@@ -1,0 +1,5 @@
+{
+  "name": "Academic AI Assistant",
+  "description": "An AI-powered web application to assist students and teachers with document analysis, question generation, and topic prediction to enhance learning and teaching.",
+  "requestFramePermissions": []
+}
